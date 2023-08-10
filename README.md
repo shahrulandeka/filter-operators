@@ -3,6 +3,7 @@
 <h2>Description</h2>
 In this lab example, I run through how to filter with AND, OR and NOT operators. It's likely that I 'll have to find specific data that depends on one or more factors. I can use these operators to create more complex filters in SQL queries. <br/>
 For this example, I need to obtain specific information about employees, their machines and the department they belong to from the database. My team needs data to investigate potential security issues and to update computers. <br/>
+ <br/>
 
 <h2>Languages and Utilities Used</h2>
 
